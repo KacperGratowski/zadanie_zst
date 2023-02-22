@@ -1,0 +1,32 @@
+Cechy witryny:
+- Składa się ze strony o nazwie index.html
+- Zastosowany właściwy standard kodowania polskich znaków
+- Tytuł strony widoczny na karcie przeglądarki „odpowiedni do treści strony”
+- Arkusz stylów w pliku o style.css prawidłowo połączony z kodem strony (plik w osobnym podkatalogu strony)
+
+- Podział strony na bloki: na górze baner, poniżej bloki: lewy, środkowy i prawy oraz na dole blok stopki.
+
+Podział zrealizowany za pomocą znaczników sekcji.
+
+- Zawartość banera: 
+* nagłówek pierwszego stopnia o zgodnej z zawartością treści
+* menu poziome linkujace do materiałów w sieci umieszczonych na stronie (przynajmniej cztery linki)
+
+- Zawartość bloku lewego:
+* Nagłówek trzeciego stopnia o treści „odpowiedni do treści strony”
+* menu pionowe (Lista punktowana nieuporządkowana) 
+
+- Zawartość bloku środkowego:
+* Nagłówek trzeciego stopnia o treści „aaaaaaaaa”
+* Formularz składający się miedzy innymi z: listy rozwijanej zawierającej elementy odpowiednie do treści strony
+* Formularz wysyła dane za pomocą przycisku WYBIERZ, metodą dostępną w html
+
+- Zawartość bloku prawego:
+* Nagłówek czwartego stopnia o treści: „Kontakt”. Umieszczone w osobnym akapicie (paragrafie) teksty „telefon: 123123123 oraz e-mail: poprawny@adres.pl” każdy w osobnej linijce
+* Napis poprawny@adres.pl jest odsyłaczem pocztowym łączącym z tym samym adresem
+* Obraz do_tematu.png (z przezroczystością - widać tło) z tekstem alternatywnym „promocja”
+
+- Zawartość stopki: nagłówek drugiego stopnia o treści „Autor strony”,
+
+Tło strony inne niż białe:
+- w tle strony minimum dwie grafiki (plik w osobnym podkatalogu strony)
